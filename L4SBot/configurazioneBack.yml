@@ -1,0 +1,305 @@
+SEND_NOTIFICATIONS: True
+EMAIL_ADDRESS: "@gmail.com"
+EMAIL_PASSWORD: ""
+EMAIL_ADDRESS_SEND: "goez482@gmail.com"
+KEY_GOOGLE: "" 
+CHIAVI_RICERCA:
+  {
+   EN:
+  [
+    "injuries+player",
+    "disqualified",
+    "players+on+strike",
+    "aarrears+of+wages",
+    "bankrupt",
+  ],
+  FR:
+  [
+    "blessées+joueurs",
+    "disqualifié",
+    "joueurs+en+grève",
+    "arriérés+de+salaire",
+    "crise+financière",
+  ],
+    RO:
+  [
+    "rănit+jucător",
+    "descalificat",
+    "grevă",
+    "restanțe+salariale",
+    "firma+falimentara",
+  ],
+     GE:
+   [
+     "verletzt+spieler",
+     "disqualifiziert",
+     "Spieler+im+Streik",
+     "Lohnrückstände",
+     "bankrottes+Unternehmen",
+   ],
+   TR:
+   [
+     "sakatlıklar+oyuncu",
+     "diskalifiye+edildi",
+     "oyuncular+grevde",
+     "ücretlerde+gecikmeler",
+     "iflas+eden+şirket",
+   ],
+ IT: [
+    "giocatori infortunati",
+    "squalificati",
+    "giocatori in sciopero",
+    "stipendi arrettrati",
+    "società in fallimento",
+    
+  ],
+ PL:
+   [
+     "kontuzjowani+gracze",
+     "zdyskwalifikowany",
+     "strajkujący+gracze",
+     "zaległości+w+wypłatach",
+     "firma+stanie+upadłości",
+   ],
+ BZ:
+   [
+     "ozlijeđen",
+     "diskvalificiran",
+     "igračiu+štrajku",
+     "zaostale+plaće",
+     "poduzeće+stečaju",
+   ],NL: [
+    "verwondingen",
+    "gediskwalificeerd",
+    "spelers+in+staking",
+    "achterstallige+betaling+loon",
+    "financiële+crisis"
+],
+PT: [
+    "lesões",
+    "Desqualificado",
+    "jogadores+em+greve",
+    "Salários+atrasados",
+    "Crise+financeira",
+],
+ES: [
+    "lesión",
+    "eliminado",
+    "jugadores+en+huelga",
+    "pago+atrasado",
+    "Crisis+financiera",
+],
+IR: [
+    "آسیب+ها",
+    "نامعتبر",
+    "در+حال+اعتصاب",
+    "پیش+پرداخت",
+    "بحران+مالی",
+],
+CZ: [
+    "Zranění",
+    "Diskvalifikován",
+    "Hráči+v+útoku",
+    "Nedoplatky+na+mzdách",
+    "Finanční+krize",
+],
+IL: [
+    "פצוע",
+    "נפסל",
+    "שחקנ+ים+בשביתה",
+    "פיגור+בשכר",
+    "חברה+בפשיטת+רגל",
+],
+RU: [
+    "травмы",
+    "дисквалифицирован",
+    "бастующие+игроки",
+    "Задолженность+по+заработной+плате",
+    "финансовый+кризис",
+],
+BG: [
+    "наранявания",
+    "дисквалифициран",
+    "играчи+в+стачка",
+    "неизплатени+задължения",
+    "финансовата+криза",
+],
+HR: [
+    "ozlijeđenih+igrača",
+    "diskvalificiran",
+    "štrajk+igrača",
+    "Zaostale+plaće",
+    "financijska+kriza",
+],
+CHN: [
+    "球员受伤",
+    "取消资格",
+    "罢工运动",
+    "拖欠工资",
+    "金融危机",
+],
+DK: [
+    "skadede+spillere",
+    "diskvalificeret",
+    "spillere+i+strejke",
+    "Restancer+med+løn",
+    "Konkurseret+selskab",
+],
+ID: [
+    "pemain+cedera",
+    "Didiskualifikasi",
+    "pemain+mogok+main",
+    "tunggakan+gaji",
+    "krisis+finansial",
+],
+AR: [
+    "عدد+الاصابات",
+    "لم+يتأهل",
+    "الاعبون+في+حالة+هجومية",
+    "دفع+مستحقات+سابقة",
+    "ازمة+مالية",
+],PL: [
+    "kontuzjowani+gracze",
+    "zdyskwalifikowany",
+    "gracze+strajkujący",
+    "Zaległości+w+wynagrodzeniach",
+    "Firma+w+stanie+upadłości",
+],
+BA: [
+    "povređenih+igrača",
+    "diskvalifikovan",
+    "štrajk+igrača",
+    "Zaostale+plate",
+    "finansijska+kriza",
+]
+  
+  }
+
+lingue:
+  [
+       {
+         name: "Tedesco",
+         cx: "e15f92ed7f5d9d0de",
+         lingua: "GE",
+       },
+       {
+         name: "Turco",
+         cx: "441c4f63086a0e9a3",
+         lingua: "TR",
+        }, {
+         name: "Portoghese",
+         cx: "974ff70605f57c580",
+         lingua: "PT",
+        },
+        {
+         name: Indonesiano",
+         cx: "f7b3920bb86fb3cb4",
+         lingua: "ID",
+        }, {
+         name: Olandese",
+         cx: "7320fb36a6fdeb293",
+         lingua: "NL",
+        },{
+         name: Inglese",
+         cx: "d9856a60492d407ff",
+         lingua: "EN",
+        },{
+         name: Spagnolo",
+         cx: "9e6eb6554954795de",
+         lingua: "ES",
+        },
+         {
+          name: "Romania",
+          cx: "e2a1a83d076be0f1d",
+          lingua: "RO",
+        }, 
+        {
+          name: "Francese",
+          cx: "f90a5483f1faa64e4",
+          lingua: "FR",
+        },
+        {
+          name: "Persiano",
+          cx: "813bbdfa39dd8a83d",
+          lingua: "IR",
+        },
+        {
+          name: "Ceco",
+          cx: "cca808d83c0298b64",
+          lingua: "CZ",
+        },
+                {
+          name: "Ebraico",
+          cx: "a7d55f63ce30760d3",
+          lingua: "IL",
+        },
+                {
+          name: "russo",
+          cx: "58237df0f35a38c8e",
+          lingua: "RU",
+        },
+                {
+          name: "Bulgaro",
+          cx: "1da02b5bb23de6231",
+          lingua: "BG",
+        },
+             {
+          name: "Bosniaco",
+          cx: "bc3e726a6f4aecd37",
+          lingua: "BA",
+        },
+             {
+          name: "Polacco",
+          cx: "b37a42dba2176cd26",
+          lingua: "PL",
+        },
+             {
+          name: "Croato",
+          cx: "9fceb80a00b6cc686",
+          lingua: "HR",
+
+        },
+           
+            {
+          name: "Cinese",
+          cx: "1cd0fd336435f1d84",
+          lingua: "CHN",
+          
+        },
+            {
+          name: "Danese",
+          cx: "44a6cadf7022369cf",
+          lingua: "DK",
+          
+        },
+            {
+          name: "Arabo",
+          cx: "122bb6b4a8a4a7a8f",
+          lingua: "AR",
+          
+        }, {
+          name: "Spagnolo2",
+          cx: "ea61ace99df4a1039",
+          lingua: "ES",
+          
+        }, {
+          name: "Spagnolo3",
+          cx: "f790d62ed02ecdbde",
+          lingua: "ES",
+          
+        },
+        {
+          name: "Inglese2",
+          cx: "62184f01a8fd26f96",
+          lingua: "EN",
+          
+        },
+        {
+          name: "Inglese3",
+          cx: "059b642deeeeb0a02",
+          lingua: "EN",
+          
+        }
+        
+       
+  ]

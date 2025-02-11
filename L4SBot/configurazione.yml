@@ -1,0 +1,332 @@
+SEND_NOTIFICATIONS: True
+EMAIL_ADDRESS: "@gmail.com"
+EMAIL_PASSWORD: ""
+EMAIL_ADDRESS_SEND: "@gmail.com"
+KEY_GOOGLE: "" 
+CHIAVI_RICERCA:
+  {
+   EN:
+  [
+    "injuries+players",
+    "Injury+hit",
+    "Injuries+problem",
+    "injury+blow",
+    "depleted+squad",
+  ],
+  FR:
+  [
+    "sans+titulaires",
+    "joueurs+absents",
+    "joueurs+en+grève",
+    "arriérés+de+salaire",
+    "groupe+diminuè",
+  ],
+  RO:
+   [
+    "mulți+absenți",
+    "multe+indisponibile",
+    "grevă",
+    "restanțe+salariale",
+    "rotația+echipei",
+   ],
+ GE:
+   [
+     "viele+nieten+geschenk",
+     "viele+verletzte+spieler",
+     "Spieler+im+streik",
+     "der+verletzungsbedingten+ausfälle",
+     "wichtige+Abwesenheiten",
+   ],
+ TR:
+   [
+     "sakatlıklar+oyuncu",
+     "diskalifiye+edildi",
+     "oyuncular+grevde",
+     "ücretlerde+gecikmeler",
+     "iflas+eden+şirket",
+   ],
+ IT: [
+    "tanti+assenti",
+    "tanti+indisponibili",
+    "giocatori+in+sciopero",
+    "stipendi+arretrati",
+    "turn+over",
+   ],
+ PL:
+   [
+     "wiele+nity+prezent",
+     "wielu+nieobecnych+graczy",
+     "strajkujący+gracze",
+     "zaległości+w+wypłatach",
+     "firma+stanie+upadłości",
+   ],
+ BZ:
+   [
+     "ozlijeđen",
+     "diskvalificiran",
+     "igračiu+štrajku",
+     "zaostale+plaće",
+     "poduzeće+stečaju",
+   ],
+NL: [
+    "veel+afwezige+spelers",
+    "veel+niet-beschikbare+spelers",
+    "spelers+in+staking",
+    "achterstallige+betaling+loon",
+    "financiële+crisis"
+],
+PT: [
+    "Equipe+Com+Desfalque",
+    "problemas+desfalques",
+    "com+desfalque",
+    "Salários+atrasados",
+    "sem+titulares",
+],
+ES: [
+    "plaga+de+lesiones",
+    "problemas+bajas",
+    "jugadores+en+rebeldías",
+    "salarios+atrasado",
+    "Bajas",
+],
+IR: [
+    "آسیب+ها",
+    "نامعتبر",
+    "در+حال+اعتصاب",
+    "پیش+پرداخت",
+    "بحران+مالی",
+],
+CZ: [
+    "mnoho+nepřítomných+hráčů",
+    "tým+s+mnoha+zraněnými",
+    "Hráči+v+útoku",
+    "Nedoplatky+na+mzdách",
+    "Finanční+krize",
+],
+IL: [
+    "פצוע",
+    "נפסל",
+    "שחקנ+ים+בשביתה",
+    "פיגור+בשכר",
+    "חברה+בפשיטת+רגל",
+],
+RU: [
+    "травмы",
+    "дисквалифицирован",
+    "бастующие+игроки",
+    "Задолженность+по+заработной+плате",
+    "финансовый+кризис",
+],
+BG: [
+    "много+отсъстващи+играчи",
+    "дисквалифициран",
+    "играчи+в+стачка",
+    "неизплатени+задължения",
+    "финансовата+криза",
+],
+HR: [
+    "mnogo+odsutnih+igrača",
+    "mnogi+igrači+nedostupni",
+    "štrajk+igrača",
+    "Zaostale+plaće",
+    "financijska+kriza",
+],
+CHN: [
+    "球员受伤",
+    "取消资格",
+    "罢工运动",
+    "拖欠工资",
+    "金融危机",
+],
+DK: [
+    "skadede+spillere",
+    "diskvalificeret",
+    "spillere+i+strejke",
+    "Restancer+med+løn",
+    "Konkurseret+selskab",
+],
+ID: [
+    "pemain+cedera",
+    "Didiskualifikasi",
+    "pemain+mogok+main",
+    "tunggakan+gaji",
+    "krisis+finansial",
+],
+AR: [
+    "-لاعبين مصابين",
+   "-معاقبين",
+    "-لاعبين في إضراب",
+    "-تأخر في الرواتب",
+    "-شركة قي إفلاس",
+],
+PL: [
+    "kontuzjowani+gracze",
+    "zdyskwalifikowany",
+    "gracze+strajkujący",
+    "Zaległości+w+wynagrodzeniach",
+    "Firma+w+stanie+upadłości",
+],
+BA: [
+    "povređenih+igrača",
+    "diskvalifikovan",
+    "štrajk+igrača",
+    "Zaostale+plate",
+    "finansijska+kriza",
+],
+UN: [
+    "sztrájkoló+játékosok",
+    "diszkvalifikált",
+    "sztrájkoló+játékosok",
+    "elmaradt+munkabér",
+    "csődbe+ment+cég",
+]
+  
+  }
+
+lingue:
+  [
+       {
+         name: "Tedesco",
+         cx: "e15f92ed7f5d9d0de",
+         lingua: "GE",
+       },
+  
+         {
+         name: "Portoghese",
+         cx: "974ff70605f57c580",
+         lingua: "PT",
+        },
+      {
+         name: Olandese",
+         cx: "7320fb36a6fdeb293",
+         lingua: "NL",
+        },{
+         name: Inglese",
+         cx: "d9856a60492d407ff",
+         lingua: "EN",
+        },{
+         name: Spagnolo",
+         cx: "9e6eb6554954795de",
+         lingua: "ES",
+        },
+         {
+          name: "Romania",
+          cx: "e2a1a83d076be0f1d",
+          lingua: "RO",
+        }, 
+        {
+          name: "Francese",
+          cx: "f90a5483f1faa64e4",
+          lingua: "FR",
+        },
+      
+        {
+          name: "Ceco",
+          cx: "cca808d83c0298b64",
+          lingua: "CZ",
+        },
+   
+                {
+          name: "Bulgaro",
+          cx: "1da02b5bb23de6231",
+          lingua: "BG",
+        },
+             {
+          name: "Bosniaco",
+          cx: "bc3e726a6f4aecd37",
+          lingua: "BA",
+        },
+             {
+          name: "Polacco",
+          cx: "b37a42dba2176cd26",
+          lingua: "PL",
+        },
+             {
+          name: "Croato",
+          cx: "9fceb80a00b6cc686",
+          lingua: "HR",
+
+        },
+
+            {
+          name: "Danese",
+          cx: "44a6cadf7022369cf",
+          lingua: "DK",
+          
+        },
+{
+          name: "Spagnolo2",
+          cx: "ea61ace99df4a1039",
+          lingua: "ES",
+          
+        }, {
+          name: "Spagnolo3",
+          cx: "f790d62ed02ecdbde",
+          lingua: "ES",
+          
+        },
+        {
+          name: "Inglese2",
+          cx: "62184f01a8fd26f96",
+          lingua: "EN",
+          
+        },
+        {
+          name: "Inglese3",
+          cx: "059b642deeeeb0a02",
+          lingua: "EN",
+          
+        } , {
+          name: "Tedesco2",
+          cx: "9222d573484a3e58e",
+          lingua: "GE",
+          
+        } , {
+          name: "Tedesco3",
+          cx: "9e004260cd4c67378",
+          lingua: "GE",
+          
+        } , {
+          name: "Italiano",
+          cx: "dda8e957d66475856",
+          lingua: "IT",
+          
+        } , {
+          name: "Italiano2",
+          cx: "ae2e37e6bd10b7580",
+          lingua: "IT",
+          
+        }, {
+          name: "Italiano3",
+          cx: "f7e3b153056e70f0b",
+          lingua: "IT",
+          
+        }, {
+          name: "Ungherese",
+          cx: "62fbce7deb774ca59",
+          lingua: "UN",
+          }, {
+          name: "Portoghese2",
+          cx: "36cfef50374587e29",
+          lingua: "PT",
+          
+        }, {
+          name: "Portoghese3",
+          cx: "9e182b1e89ddb7faf",
+          lingua: "PT",
+          
+        }, {
+          name: "Francese2",
+          cx: "b24688451d142f5c1",
+          lingua: "FR",
+          
+        }, {
+          name: "Francese3",
+          cx: "123ddce626918ee07",
+          lingua: "FR",
+          
+        }
+        
+        
+       
+  ]
